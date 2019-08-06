@@ -18,7 +18,7 @@ Income tax return statement for the Financial year 2018-19 [Assessement year 201
     </ul>
 
 ### How to calculate tax?
-    <ol>
+<ol>
         <li> DO NOT CUT,COPY OR PASTE </li>
         <li>The salary particulars in the statement is prepared as per HRMS salary bill</li>
         <li>Please fill "BLUE" coloured cells only. The other cells are blocked.</li>
@@ -38,9 +38,8 @@ Income tax return statement for the Financial year 2018-19 [Assessement year 201
     
 ### Previous Years 
 
-<hr>
+### Author
 
- ### Author
 Created by P.Purushotham, Department of Collegiate Education<br> E-mail : sppurushotham65@gmail.com
  <ul>
  <li>The creator of this software is not a Tax consultant</li>
