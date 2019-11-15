@@ -34,7 +34,7 @@ Click Here
 ### Requirements
 
  <li> KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY</li>
-  <li> This is for Resident **"Individual"** tax payer only</li>
+  <li> This is for Resident "Individual" tax payer only</li>
     
 ### Previous Years 
 
