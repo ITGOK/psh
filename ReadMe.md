@@ -11,12 +11,6 @@ Income tax return statement for the Financial year 2019-20 [Assessement year 202
 
 <hr>
 
-### Instructions
-<ul>
-        <li>First download the Excel sheet and unzip "file.zip".</li>
-        <li>The password for the file is <b>"DCEPA"</b> (in capital letters).</li>
-        <li>If you want the previous year tax calculator visit "LINK".</li>
-    </ul>
 
 ### How to calculate tax?
 <ol>
