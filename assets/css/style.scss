@@ -28,6 +28,9 @@
 }
 
 .dlg {
-    border: black;
+    border: #ff0000;
     border-width: thick;
+    border-style: dotted;
+    text-align: -webkit-match-parent;
+    box-sizing: border-box;
 }
