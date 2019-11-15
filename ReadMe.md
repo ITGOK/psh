@@ -4,10 +4,14 @@
 Income tax return statement for the Financial year 2019-20 [Assessement year 2020-21]<br> Income tax calculation in excel sheet is prepared and designed for THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
   
 ### Download : 
-<form method="get" action="IT_AY_2020-21.zip">
+
+IT AY 2020-21.xls
+
+
+<a href="IT AY 2020-21.xls" download>
 <button type="submit" class="btn">Click Here to Download Tax Calculator</button>
-</form>
-<a class="texts">File info : "IT_AY_2020-21.xls" created on 15-11-2019.<br> "IT_AY_2020-21.xls" modified on 15-11-2019</a> <br>
+</a>
+
 
 <hr>
 
