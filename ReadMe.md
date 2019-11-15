@@ -9,7 +9,7 @@ IT AY 2020-21.xls
 
 
 <a href="IT AY 2020-21.xls" download>
-<button type="submit" class="btn">Click Here to Download Tax Calculator</button>
+Click Here
 </a>
 
 
