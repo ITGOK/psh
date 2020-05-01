@@ -4,12 +4,6 @@ Income tax return statement for the Financial year 2020-21 [Assessement year 202
 
 ### Download :
 
-<div class="dlg">
-IT AY 2021-22.xls
-<a href="IT AY 2021-22.xls" download>
-Click Here
-</a>
-</div>
 
 <table>
   <th>File Name</th>
