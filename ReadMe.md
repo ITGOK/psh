@@ -7,7 +7,7 @@ Income tax return statement for the Financial year 2020-21 [Assessement year 202
 
 <table>
   <th>File Name</th>
-  <th>Downloads</th>
+  <th>Download</th>
   <tr>
     <td>IT AY 2021-22.xls</td>
     <td><a href="IT AY 2021-22.xls" download>Click Here</a></td>
