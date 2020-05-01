@@ -3,12 +3,15 @@
 
 @import "{{ site.theme }}";
 
+th{
+  background-color:#1db15580;
+}
 table.dl {
   font-family: Impact, Charcoal, sans-serif;
   border: 5px solid #FF0000;
   background-color: #FFFAA1;
-  width: 49%;
-  height: 353px;
+  width: 329px;
+  height: 342px;
   text-align: center;
 }
 table.dl td, table.dl th {
