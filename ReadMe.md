@@ -5,7 +5,7 @@ Income tax return statement for the Financial year 2020-21 [Assessement year 202
 ### Downloads :
 
 
-<table>
+<table class="dl">
   <th>File Name</th>
   <th>Download</th>
   <tr>
