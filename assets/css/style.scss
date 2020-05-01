@@ -3,6 +3,33 @@
 
 @import "{{ site.theme }}";
 
+table.dl {
+  font-family: Impact, Charcoal, sans-serif;
+  border: 5px solid #FF0000;
+  background-color: #FFFAA1;
+  width: 34%;
+  height: 151px;
+  text-align: center;
+}
+table.dl td, table.dl th {
+  border: 4px solid #AAAAAA;
+  padding: 5px 9px;
+}
+table.dl tbody td {
+  font-size: 18px;
+  color: #096810;
+}
+table.dl thead {
+  background: #6FDD80;
+}
+table.dl thead th {
+  font-size: 19px;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+}
+
+
 .page-header {
     color: #fff;
     text-align: center;
