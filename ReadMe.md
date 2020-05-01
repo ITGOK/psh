@@ -14,11 +14,11 @@ Income tax return statement for the Financial year 2020-21 [Assessement year 202
   </tr>
   <tr>
     <td>PENSION Calculation.xlsm</td>
-    <td><a href="PENSION Calculation.xls" download>Click Here</a></td>
+    <td><a href="PENSION Calculation.xlsm" download>Click Here</a></td>
   </tr>
   <tr>
     <td>KGID LOAN Calculation.xlsx</td>
-    <td><a href="KGID LOAN Calculation.xlsm" download>Click Here</a></td>
+    <td><a href="KGID LOAN Calculation.xlsx" download>Click Here</a></td>
   </tr>
   <tr>
     <td>PENSION Format.xlsx</td>
