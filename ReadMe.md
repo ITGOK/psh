@@ -1,10 +1,8 @@
-
-
 ## Introduction
 
 Income tax return statement for the Financial year 2020-21 [Assessement year 2021-22]<br> Income tax, Pension and KGID Loan calculation in excel sheet is prepared and designed for THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
-  
-### Download : 
+
+### Download :
 
 <div class="dlg">
 IT AY 2021-22.xls
@@ -16,16 +14,40 @@ Click Here
 <table>
   <th>File Name</th>
   <th>Download</th>
-<tr>
-  <td>IT AY 2021-22.xls</td>
-  <td><a href="IT AY 2021-22.xls" download>Click Here</a></td>
+  <tr>
+    <td>IT AY 2021-22.xls</td>
+    <td><a href="IT AY 2021-22.xls" download>Click Here</a></td>
   </tr>
-  </table>
+  <tr>
+    <td>PENSION Calculation.xlsm</td>
+    <td><a href="PENSION Calculation.xls" download>Click Here</a></td>
+  </tr>
+  <tr>
+    <td>KGID LOAN Calculation.xlsx</td>
+    <td><a href="KGID LOAN Calculation.xlsm" download>Click Here</a></td>
+  </tr>
+  <tr>
+    <td>PENSION Format.xlsx</td>
+    <td><a href="PENSION Format.xlsx" download>Click Here</a></td>
+  </tr>
+  <tr>
+    <td>EL Proforma.pdf</td>
+    <td><a href="EL Proforma.pdf" download>Click Here</a></td>
+  </tr>
+  <tr>
+    <td>CR's Format 2019-20.xls</td>
+    <td><a href="CR's Format 2019-20.xls" download>Click Here</a></td>
+  </tr>
+  <tr>
+    <td>DA CHART from 1-1-1982.xls</td>
+    <td><a href="DA CHART from 1-1-1982.xls" download>Click Here</a></td>
+  </tr>
+</table>
 
 <hr>
 
-
 ### How to calculate tax?
+
 <ol>
         <li> DO NOT CUT, COPY OR PASTE </li>
         <li>The salary particulars in the statement is prepared as per HRMS salary bill</li>
@@ -44,11 +66,12 @@ Click Here
  <li> KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY</li>
   <li> This is for Resident "Individual" tax payer only</li>
     
-### Previous Years 
+### Previous Years
 
 ### Author
 
-Created by ***P.Purushotham***, Department of Collegiate Education<br> E-mail : **sppurushotham65@gmail.com**
+Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : **sppurushotham65@gmail.com**
+
  <ul>
  <li>The creator of this software is not a Tax consultant</li>
  <li>This file can be used to calculate the approximate tax payable by a salaried person</li>
