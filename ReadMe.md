@@ -1,6 +1,6 @@
 ## Introduction
 
-Income tax return statement for the Financial year 2020-21 [Assessement year 2021-22]<br> Income tax, Pension and Approximate KGID Loan calculation in excel sheet is prepared and designed for THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
+Income tax return statement for the Financial year 2020-21 [Assessement year 2021-22]<br> Income tax, Pension & Approximate KGID Loan calculation in excel sheet <br> Pension & CR's Format, EL Proforma & DA Chart is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
 
 ### Downloads :
 
