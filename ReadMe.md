@@ -11,8 +11,16 @@ IT AY 2021-22.xls
 <a href="IT AY 2021-22.xls" download>
 Click Here
 </a>
- </div>
+</div>
 
+<table>
+  <th>File Name</th>
+  <th>Download</th>
+<tr>
+  <td>IT AY 2021-22.xls</td>
+  <td><a href="IT AY 2021-22.xls" download>Click Here</a></td>
+  </tr>
+  </table>
 
 <hr>
 
