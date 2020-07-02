@@ -1,3 +1,4 @@
+
 ## Introduction
 
 Income tax return statement for the Financial year 2020-21 [Assessement year 2021-22]<br> Income tax, Pension & Approximate KGID Loan calculation in excel sheet <br> Pension & CR's Format, EL Proforma & DA Chart is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
@@ -8,34 +9,49 @@ Income tax return statement for the Financial year 2020-21 [Assessement year 202
 <table class="dl">
   <th>File Name</th>
   <th>Download</th>
+  <th>Updated</th>
   <tr>
     <td>IT AY 2021-22.xls</td>
     <td><a href="IT AY 2021-22.xls" download>Click Here</a></td>
+    <td>02-07-2020</td>
   </tr>
   <tr>
     <td>PENSION Calculation.xlsm</td>
-    <td><a href="PENSION Calculation.xlsm" download>Click Here</a></td>
+    <td><a href="PENSION Calculation.xlsm" download>Click Here</a>
+    <td>02-07-2020</td></td>
   </tr>
   <tr>
     <td>KGID LOAN Calculation.xlsx</td>
-    <td><a href="KGID LOAN Calculation.xlsx" download>Click Here</a></td>
+    <td><a href="KGID LOAN Calculation.xlsx" download>Click Here</a>
+    <td>02-07-2020</td></td>
   </tr>
   <tr>
     <td>PENSION Format.xlsx</td>
     <td><a href="PENSION Format.xlsx" download>Click Here</a></td>
+    <td>02-07-2020</td>
   </tr>
   <tr>
     <td>EL Proforma.pdf</td>
     <td><a href="EL Proforma.pdf" download>Click Here</a></td>
+    <td>02-07-2020</td>
   </tr>
   <tr>
     <td>CR's Format 2019-20.xls</td>
-    <td><a href="CR's Format 2019-20.xls" download>Click Here</a></td>
+    <td><a href="CR's Format 2019-20.xls" download>Click Here</a>
+    <td>02-07-2020</td>
+    </td>
   </tr>
   <tr>
     <td>DA CHART from 1-1-1982.xls</td>
-    <td><a href="DA CHART from 1-1-1982.xls" download>Click Here</a></td>
+    <td><a href="DA CHART from 1-1-1982.xls" download>Click Here</a>	            </td>
+    <td>02-07-2020</td>
   </tr>
+  <tr>
+    <td>Medical Proforma</td>
+    <td><a href="Medical Proforma.xlsx" download>Click Here</a>	            </td>
+    <td>02-07-2020</td>
+  </tr>
+  
 </table>
 
 <hr>
