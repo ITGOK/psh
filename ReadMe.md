@@ -47,9 +47,9 @@ Income tax return statement for the <br> Financial year 2019-20 [Assessement yea
     <td>02-07-2020</td>
   </tr>
   <tr>
-    <td>CR's Format 2019-20.xls</td>
-    <td><a href="CR's Format 2019-20.xls" download>Click Here</a>
-    <td>02-07-2020</td>
+    <td>CR's Format 2020-21.xls</td>
+    <td><a href="CR's Format 2020-21.xls" download>Click Here</a>
+    <td>23-05-2021</td>
     </td>
   </tr>
   <tr>
@@ -74,6 +74,8 @@ Income tax return statement for the <br> Financial year 2019-20 [Assessement yea
 ### What's new?
 
 <li> Date: 23-05-2021 - Added new IT AY 2022-23 </li>
+<li> Date: 23-05-2021 - Added new CR's Format 2020-21 </li>
+
 
 <hr>
 
