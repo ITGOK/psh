@@ -73,7 +73,7 @@ Income tax return statement for the <br> Financial year 2019-20 [Assessement yea
 
 ### What's new?
 
-<li> Date: 23-05-2021 - Added new IT AY 2022-23 <li/>
+<li> Date: 23-05-2021 - Added new IT AY 2022-23 </li>
 
 <hr>
 
