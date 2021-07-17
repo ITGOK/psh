@@ -24,7 +24,7 @@ Income tax return statement for the <br> Financial year 2019-20 [Assessement yea
    <tr>
     <td>IT AY 2022-23.xls</td>
     <td><a href="IT AY 2022-23.xls" download>Click Here</a></td>
-    <td>23-05-2021</td>
+    <td>17-07-2021</td>
   </tr>
   <tr>
     <td>PENSION Calculation.xlsm</td>
@@ -73,7 +73,7 @@ Income tax return statement for the <br> Financial year 2019-20 [Assessement yea
 
 ### What's new?
 
-<li> Date: 23-05-2021 - Added new IT AY 2022-23 </li>
+<li> Date: 17-07-2021 - Added new IT AY 2022-23 </li>
 <li> Date: 23-05-2021 - Added new CR's Format 2020-21 </li>
 
 
