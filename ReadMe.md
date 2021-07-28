@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Income tax return statement for the <br> Financial year 2019-20 [Assessement year 2020-21]<br> Financial year 2020-21 [Assessement year 2021-22]<br> Income tax, Pension & Approximate KGID Loan calculation in excel sheet <br> Pension & CR's Format, EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
+Income tax return statement for the <br> Financial year 2021-22 [Assessement year 2022-23]<br> Income tax, Pension & Approximate KGID Loan calculation in excel sheet <br> Pension & CR's Format, EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
 
 ### Downloads :
 
@@ -24,7 +24,7 @@ Income tax return statement for the <br> Financial year 2019-20 [Assessement yea
    <tr>
     <td>IT AY 2022-23.xls</td>
     <td><a href="IT AY 2022-23.xls" download>Click Here</a></td>
-    <td>17-07-2021</td>
+    <td>28-07-2021</td>
   </tr>
   <tr>
     <td>PENSION Calculation.xlsm</td>
@@ -73,7 +73,7 @@ Income tax return statement for the <br> Financial year 2019-20 [Assessement yea
 
 ### What's new?
 
-<li> Date: 17-07-2021 - Added new IT AY 2022-23 </li>
+<li> Date: 28-07-2021 - Added new IT AY 2022-23 included July 2021 DA </li>
 <li> Date: 23-05-2021 - Added new CR's Format 2020-21 </li>
 
 
