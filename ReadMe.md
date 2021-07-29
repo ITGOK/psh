@@ -73,7 +73,7 @@ Income tax return statement for the <br> Financial year 2021-22 [Assessement yea
 
 ### What's new?
 
-<li> Date: 28-07-2021 - Added new IT AY 2022-23 included July 2021 DA </li>
+<li> Date: 29-07-2021 - Added new IT AY 2022-23 included July 2021 DA (STATE & UGC) </li>
 <li> Date: 23-05-2021 - Added new CR's Format 2020-21 </li>
 
 
