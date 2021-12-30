@@ -24,7 +24,7 @@ Income tax return statement for the <br> Financial year 2021-22 [Assessement yea
    <tr>
     <td>IT AY 2022-23.xls</td>
     <td><a href="IT AY 2022-23.xls" download>Click Here</a></td>
-    <td>01-11-2021</td>
+    <td>30-12-2021</td>
   </tr>
   <tr>
     <td>PENSION Calculation.xlsm</td>
@@ -74,7 +74,8 @@ Income tax return statement for the <br> Financial year 2021-22 [Assessement yea
 ### What's new?
 
 <li> Date: 01-11-2021 - Added new IT AY 2022-23 included July 2021 DA (STATE & UGC) </li>
-<li> Date: 23-05-2021 - Added new CR's Format 2020-21 </li>
+<li> Date: 30-12-2021 updated UGC Scale EGIS [IT AY 2022-23.xls](https://github.com/ITGOK/psh/files/7791748/IT.AY.2022-23.xls)
+</li>
 
 
 <hr>
