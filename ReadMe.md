@@ -37,11 +37,6 @@ Income tax return statement for the <br> Financial year 2021-22 [Assessement yea
     <td>02-07-2020</td></td>
   </tr>
   <tr>
-    <td></td>
-    <td><a href="" download>Click Here</a></td>
-    <td>01-09-2020</td>
-  </tr>
-  <tr>
     <td>EL Proforma.pdf</td>
     <td><a href="EL Proforma.pdf" download>Click Here</a></td>
     <td>02-07-2020</td>
