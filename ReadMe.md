@@ -26,6 +26,11 @@ Income tax return statement for the <br> Financial year 2021-22 [Assessement yea
     <td><a href="IT AY 2022-23.xls" download>Click Here</a></td>
     <td>19-01-2022</td>
   </tr>
+   <tr>
+    <td>Pension Paper Format.xlsm</td>
+    <td><a href="Pension Paper Format.xlsm" download>Click Here</a></td>
+    <td>22-02-2022</td>
+  </tr>
   <tr>
     <td>PENSION Calculation.xlsm</td>
     <td><a href="PENSION Calculation.xlsm" download>Click Here</a>
@@ -70,7 +75,7 @@ Income tax return statement for the <br> Financial year 2021-22 [Assessement yea
 
 <li> Date: 01-11-2021 - Added new IT AY 2022-23 included July 2021 DA (STATE & UGC) </li>
 <li> Date: 30-12-2021 updated UGC Scale EGIS [IT AY 2022-23.xls](https://github.com/ITGOK/psh/files/7791748/IT.AY.2022-23.xls)
-</li>
+</li> Date:22-02-2022 updated "Pension Paper Format" [Please enter your information in "DATA SHEET" only]
 
 
 <hr>
