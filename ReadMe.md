@@ -74,9 +74,9 @@ Income tax return statement for the <br> Financial year 2021-22 [Assessement yea
 ### What's new?
 
 <li> Date: 01-11-2021 - Added new IT AY 2022-23 included July 2021 DA (STATE & UGC) </li>
-<li> Date: 30-12-2021 updated UGC Scale EGIS [IT AY 2022-23.xls](https://github.com/ITGOK/psh/files/7791748/IT.AY.2022-23.xls)
-</li> Date:22-02-2022 updated "Pension Paper Format" 
-</li> [Please enter your information in "DATA SHEET" only]
+<li> Date: 30-12-2021 updated UGC Scale EGIS [IT AY 2022-23.xls]
+</li> Date:22-02-2022 updated "Pension Paper Format"
+[Please enter your information in "DATA SHEET" only]
 
 
 
