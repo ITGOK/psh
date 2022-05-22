@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Income tax return statement for the <br> Financial year 2021-22 [Assessement year 2022-23]<br> Income tax, Pension & Approximate KGID Loan calculation in excel sheet <br> Pension Paper Format & CR's Format, EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
+Income tax return statement for the <br> Financial year 2022-23 [Assessement year 2023-24]<br> Income tax, Pension & Approximate KGID Loan calculation in excel sheet <br> Pension Paper Format & CR's Format, EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
 
 ### Downloads :
 
