@@ -61,7 +61,14 @@ table.dl thead th {
 .btn{
 	visibility: hidden;
 }
-
+.main-content table {
+    /* display: block; */
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all;
+    -webkit-overflow-scrolling: touch;
+}
 // table {
 //     border: #ff0000;
 //     border-width: thick;
