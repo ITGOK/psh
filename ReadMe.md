@@ -26,6 +26,11 @@ Income tax return statement for the <br> Financial year 2021-22 [Assessement yea
     <td><a href="IT AY 2022-23.xls" download>Click Here</a></td>
     <td>19-01-2022</td>
   </tr>
+     <tr>
+    <td>IT AY 2023-24.xls</td>
+    <td><a href="IT AY 2023-24.xls" download>Click Here</a></td>
+    <td>22-05-2022</td>
+  </tr>
    <tr>
     <td>Pension Paper Format.xlsm</td>
     <td><a href="Pension Paper Format.xlsm" download>Click Here</a></td>
@@ -72,7 +77,7 @@ Income tax return statement for the <br> Financial year 2021-22 [Assessement yea
 <hr>
 
 ### What's new?
-
+<li> Date: 22-005-2022 uploaded New IT for the AY 2023-24 FY 2022-23 </li>
 <li> Date: 01-11-2021 - Added new IT AY 2022-23 included July 2021 DA (STATE & UGC) </li>
 <li> Date: 30-12-2021 updated UGC Scale EGIS [IT AY 2022-23.xls]
 </li> Date:22-02-2022 updated "Pension Paper Format"
@@ -116,4 +121,4 @@ Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : 
    <a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ed3ba4d4ed23a533ba527ef5863f14009c2f8159'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/688494/t/0"></script>
   
-  v2.23.3
+  v2.23.4
