@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Income tax calculation statement sheet and Form 16 for the <br> Financial year 2022-23 [Assessement year 2023-24]<br> Pension & Approximate KGID Loan calculation in excel sheet <br> Pension Paper Format & CR's Format, EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
+Income tax calculation statement sheet and Form 16 for the <br> Financial year 2022-23 [Assessement year 2023-24]<br> Pension calculation for "STATE SCALE" & "UGC SCALE" & Approximate KGID Loan calculation in excel sheet <br> Pension Paper Format & CR's Format, EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
 
 ### Downloads :
 
@@ -39,7 +39,7 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
   <tr>
     <td>PENSION Calculation.xlsm</td>
     <td><a href="PENSION Calculation.xlsm" download>Click Here</a>
-    <td>02-07-2020</td></td>
+    <td>22-05-2022</td></td>
   </tr>
   <tr>
     <td>KGID LOAN Calculation.xlsx</td>
@@ -77,6 +77,7 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
 <hr>
 
 ### What's new?
+<li> Date: 22-05-2022 uploaded New Pension calculation for "STATE SCALE" & "UGC SCALE" </li>
 <li> Date: 22-05-2022 uploaded New IT for the AY 2023-24 FY 2022-23 </li>
 <li> Date: 01-11-2021 - Added new IT AY 2022-23 included July 2021 DA (STATE & UGC) </li>
 <li> Date: 30-12-2021 updated UGC Scale EGIS [IT AY 2022-23.xls]
