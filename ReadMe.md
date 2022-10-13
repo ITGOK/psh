@@ -79,8 +79,7 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
 ### What's new?
 <li> Date: 22-05-2022 uploaded New Pension calculation for "STATE SCALE" & "UGC SCALE" </li>
 <li> Date: 22-05-2022 uploaded New IT for the AY 2023-24 FY 2022-23 </li>
-<li> Date: 01-11-2021 - Added new IT AY 2022-23 included July 2021 DA (STATE & UGC) </li>
-<li> Date: 30-12-2021 updated UGC Scale EGIS [IT AY 2022-23.xls]
+<li> IT AY 2023-24 included July 2022 DA (STATE & UGC) </li>
 </li> Date:22-02-2022 updated "Pension Paper Format"
 [Please enter your information in "DATA SHEET" only]
 
