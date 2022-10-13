@@ -78,9 +78,9 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
 
 ### What's new?
 <li> Date: 13-10-2022 included KGID Bonus for 2016-2018 <li>
+<li> Date: 13-10-2022 IT AY 2023-24 included July 2022 DA (STATE & UGC) </li>
 <li> Date: 22-05-2022 uploaded New Pension calculation for "STATE SCALE" & "UGC SCALE" </li>
 <li> Date: 22-05-2022 uploaded New IT for the AY 2023-24 FY 2022-23 </li>
-<li> Date: 13-10-2022 IT AY 2023-24 included July 2022 DA (STATE & UGC) </li>
 </li> Date:22-02-2022 updated "Pension Paper Format"
 [Please enter your information in "DATA SHEET" only]
 
