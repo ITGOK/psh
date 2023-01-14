@@ -116,7 +116,7 @@ Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : 
 
  <ul>
  <li>The creator of this software is not a Tax consultant</li>
- <li>This file can be used to calculate the approximate tax payable by a salaried person</li>
+ <li>This file can be used to calculate the approximate tax payable -by a salaried person</li>
  <li>The creator will not responsible for any deficiency for the tax computed by this sheet.</li>
   
    <a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ed3ba4d4ed23a533ba527ef5863f14009c2f8159'></script>
