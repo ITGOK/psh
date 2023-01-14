@@ -34,12 +34,12 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
    <tr>
     <td>Pension Paper Format.xlsm</td>
     <td><a href="Pension Paper Format.xlsm" download>Click Here</a></td>
-    <td>22-02-2022</td>
+    <td>14-01-2023</td>
   </tr>
   <tr>
     <td>PENSION Calculation.xlsm</td>
     <td><a href="PENSION Calculation.xlsm" download>Click Here</a>
-    <td>22-05-2022</td></td>
+    <td>14-01-2023</td></td>
   </tr>
   <tr>
     <td>KGID LOAN Calculation.xlsx</td>
@@ -81,7 +81,7 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
 <li> Date: 13-10-2022 IT AY 2023-24 included July 2022 DA (STATE & UGC) </li>
 <li> Date: 22-05-2022 uploaded New Pension calculation for "STATE SCALE" & "UGC SCALE" </li>
 <li> Date: 22-05-2022 uploaded New IT for the AY 2023-24 FY 2022-23 </li>
-</li> Date:22-02-2022 updated "Pension Paper Format"
+</li> Date:14-01-2023 updated "Pension Paper Format"
 </li> [Please enter your information in "DATA SHEET" only]
 
 
@@ -122,4 +122,4 @@ Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : 
    <a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ed3ba4d4ed23a533ba527ef5863f14009c2f8159'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/688494/t/0"></script>
   
-  v2.23.4
+  v2.23.5 14-01-2023
