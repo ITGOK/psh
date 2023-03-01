@@ -52,12 +52,6 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
     <td>02-07-2020</td>
   </tr>
   <tr>
-    <td>CR's Format 2021.xls</td>
-    <td><a href="CR's Format 2021.xls" download>Click Here</a>
-    <td>07-02-2022</td>
-    </td>
-  </tr>
-  <tr>
     <td>DA CHART from 1-1-1982.xls</td>
     <td><a href="DA CHART from 1-1-1982.xls" download>Click Here</a>	            </td>
     <td>14-01-2023</td>
