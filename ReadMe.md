@@ -1,8 +1,8 @@
-# KARNATAKA STATE GOVERNMENT EMPLOYEES TAX CALCULATOR
+# KARNATAKA STATE GOVERNMENT EMPLOYEES <br> INCOME TAX CALCULATOR FOR THE FY 2023-24 AY 2024-25 <br> AND PENSION PAPER FORMAT
 
 ## Introduction
 
-Income tax calculation statement sheet and Form 16 for the <br> Financial year 2022-23 [Assessement year 2023-24] <br> Pension calculation for "STATE SCALE" & "UGC SCALE" <br> Approximate KGID Loan calculation in excel sheet <br> Pension Paper Format & CR's Format, EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
+Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Financial year 2023-24 [Assessement year 2024-25] <br> Pension calculation for "STATE SCALE" & "UGC SCALE" <br> Approximate KGID Loan calculation in excel sheet <br> Pension Paper Format & EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
 
 ### Downloads :
 
@@ -11,30 +11,20 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
   <th>File Name</th>
   <th>Download</th>
   <th>Updated</th>
-  <tr>
-    <td>IT AY 2020-21.xls</td>
-    <td><a href="IT AY 2020-21.xls" download>Click Here</a></td>
-    <td>25-07-2020</td>
-  </tr>
-  <tr>
-    <td>IT AY 2021-22.xls</td>
-    <td><a href="IT AY 2021-22.xls" download>Click Here</a></td>
-    <td>07-01-2021</td>
-  </tr>
    <tr>
-    <td>IT AY 2022-23.xls</td>
-    <td><a href="IT AY 2022-23.xls" download>Click Here</a></td>
-    <td>19-01-2022</td>
-  </tr>
-     <tr>
     <td>IT AY 2023-24.xls</td>
     <td><a href="IT AY 2023-24.xls" download>Click Here</a></td>
     <td>13-10-2022</td>
   </tr>
+     <tr>
+    <td>IT FY 2023-24 AY 2024-25.xls</td>
+    <td><a href="IT FY 2023-24 AY 2024-25.xls" download>Click Here</a></td>
+    <td>21-06-2023</td>
+  </tr>
    <tr>
-    <td>Pension Paper Format.xls</td>
-    <td><a href="Pension Paper Format.xls" download>Click Here</a></td>
-    <td>14-01-2023</td>
+    <td>PENSION Papers Format.xls</td>
+    <td><a href="PENSION Papers Format.xls" download>Click Here</a></td>
+    <td>21-06-2023</td>
   </tr>
   <tr>
     <td>PENSION Calculation.xlsm</td>
@@ -54,7 +44,7 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
   <tr>
     <td>DA CHART from 1-1-1982.xls</td>
     <td><a href="DA CHART from 1-1-1982.xls" download>Click Here</a>	            </td>
-    <td>14-01-2023</td>
+    <td>21-06-2023</td>
   </tr>
   <tr>
     <td>Medical Proforma</td>
@@ -72,10 +62,9 @@ Income tax calculation statement sheet and Form 16 for the <br> Financial year 2
 
 ### What's new?
 <li> Date: 13-10-2022 included KGID Bonus for 2016-2018
-<li> Date: 13-10-2022 IT AY 2023-24 included July 2022 DA (STATE & UGC) </li>
 <li> Date: 22-05-2022 uploaded New Pension calculation for "STATE SCALE" & "UGC SCALE" </li>
-<li> Date: 22-05-2022 uploaded New IT for the AY 2023-24 FY 2022-23 </li>
-</li> Date:14-01-2023 updated "Pension Paper Format"
+<li> Date: 21-06-2023 uploaded New IT for the AY 2024-25 FY 2023-24 </li>
+</li> Date:21-06-2023 updated "Pension Papers Format"
 </li> [Please enter your information in "DATA SHEET" only]
 
 
@@ -116,4 +105,4 @@ Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : 
    <a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ed3ba4d4ed23a533ba527ef5863f14009c2f8159'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/688494/t/0"></script>
   
-  v2.23.5 01-03-2023
+  v2.23.5 21-06-2023
