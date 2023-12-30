@@ -11,11 +11,6 @@ Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Fi
   <th>File Name</th>
   <th>Download</th>
   <th>Updated</th>
-   <tr>
-    <td>IT AY 2023-24.xls</td>
-    <td><a href="IT AY 2023-24.xls" download>Click Here</a></td>
-    <td>13-10-2022</td>
-  </tr>
      <tr>
     <td>IT FY 2023-24 AY 2024-25.xls</td>
     <td><a href="IT FY 2023-24 AY 2024-25.xls" download>Click Here</a></td>
@@ -105,4 +100,4 @@ Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : 
    <a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ed3ba4d4ed23a533ba527ef5863f14009c2f8159'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/688494/t/0"></script>
   
-  v2.23.5 21-06-2023
+  v2.23.5 30-12-2023
