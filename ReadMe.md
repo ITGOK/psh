@@ -14,7 +14,7 @@ Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Fi
      <tr>
     <td>IT FY 2023-24 AY 2024-25.xls</td>
     <td><a href="IT FY 2023-24 AY 2024-25.xls" download>Click Here</a></td>
-    <td>30-12-2023</td>
+    <td>07-01-2024</td>
   </tr>
    <tr>
     <td>Pension Paper Format.xls</td>
@@ -58,8 +58,8 @@ Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Fi
 ### What's new?
 <li> Date: 13-10-2022 included KGID Bonus for 2016-2018
 <li> Date: 22-05-2022 uploaded New Pension calculation for "STATE SCALE" & "UGC SCALE" </li>
-<li> Date: 21-06-2023 uploaded New IT for the AY 2024-25 FY 2023-24 </li>
-</li> Date:21-06-2023 updated "Pension Papers Format"
+<li> Date: 07-01-2024 uploaded New IT for the AY 2024-25 FY 2023-24 </li>
+</li> Date:30-12-2023 updated "Pension Papers Format"
 </li> [Please enter your information in "DATA SHEET" only]
 
 
@@ -100,4 +100,4 @@ Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : 
    <a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ed3ba4d4ed23a533ba527ef5863f14009c2f8159'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/688494/t/0"></script>
   
-  v2.23.5 30-12-2023
+  v2.23.5 07-01-2024
