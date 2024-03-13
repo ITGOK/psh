@@ -39,7 +39,7 @@ Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Fi
   <tr>
     <td>DA CHART from 1-1-1982.xls</td>
     <td><a href="DA CHART from 1-1-1982.xls" download>Click Here</a>	            </td>
-    <td>21-06-2023</td>
+    <td>13-03-2024</td>
   </tr>
   <tr>
     <td>Medical Proforma</td>
