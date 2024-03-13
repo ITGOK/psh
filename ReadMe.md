@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Financial year 2023-24 [Assessement year 2024-25] <br> Pension calculation for "STATE SCALE" & "UGC SCALE" <br> Approximate KGID Loan calculation in excel sheet <br> Pension Paper Format & EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
+Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Financial year 2023-24 [Assessement year 2024-25] <br> Pension calculation for "STATE SCALE" & "UGC SCALE" <br> Pension Paper Format & EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
 
 ### Downloads :
 
@@ -51,7 +51,6 @@ Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Fi
 <hr>
 
 ### What's new?
-<li> Date: 13-10-2022 included KGID Bonus for 2016-2018
 <li> Date: 22-05-2022 uploaded New Pension calculation for "STATE SCALE" & "UGC SCALE" </li>
 <li> Date: 07-01-2024 uploaded New IT for the AY 2024-25 FY 2023-24 </li>
 </li> Date:30-12-2023 updated "Pension Papers Format"
