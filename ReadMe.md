@@ -27,11 +27,6 @@ Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Fi
     <td>14-01-2023</td></td>
   </tr>
   <tr>
-    <td>KGID LOAN Calculation.xlsx</td>
-    <td><a href="KGID LOAN Calculation.xlsx" download>Click Here</a>
-    <td>13-10-2022</td></td>
-  </tr>
-  <tr>
     <td>EL Proforma.pdf</td>
     <td><a href="EL Proforma.pdf" download>Click Here</a></td>
     <td>02-07-2020</td>
