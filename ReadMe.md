@@ -1,8 +1,8 @@
-# KARNATAKA STATE GOVERNMENT EMPLOYEES <br> INCOME TAX CALCULATOR FOR THE FY 2023-24 AY 2024-25 <br> AND PENSION PAPER FORMAT
+# KARNATAKA STATE GOVERNMENT EMPLOYEES <br> INCOME TAX CALCULATOR FOR THE FY 2024-25 AY 2025-26 <br> AND PENSION PAPER FORMAT
 
 ## Introduction
 
-Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Financial year 2023-24 [Assessement year 2024-25] <br> Pension calculation for "STATE SCALE" & "UGC SCALE" <br> Pension Paper Format & EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
+Income tax calculation for the FY 2024-25 AY 2025-26 <br> and Form 16 for the Financial year 2024-25 [Assessement year 2025-26] <br> Pension calculation for "STATE SCALE" & "UGC SCALE" <br> Pension Paper Format & EL Proforma, Medical Proforma, GPF Format & DA Chart <br> is prepared and designed for <br> THE KARNATAKA STATE GOVERNMENT EMPLOYEES ONLY
 
 ### Downloads :
 
@@ -12,9 +12,9 @@ Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Fi
   <th>Download</th>
   <th>Updated</th>
      <tr>
-    <td>IT FY 2023-24 AY 2024-25.xls</td>
-    <td><a href="IT FY 2023-24 AY 2024-25.xls" download>Click Here</a></td>
-    <td>07-01-2024</td>
+    <td>IT FY 2024-25 AY 2025-26.xls</td>
+    <td><a href="IT FY 2024-25 AY 2025-26.xls" download>Click Here</a></td>
+    <td>16-12-2024</td>
   </tr>
    <tr>
     <td>Pension Paper Format.xls</td>
@@ -32,9 +32,9 @@ Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Fi
     <td>02-07-2020</td>
   </tr>
   <tr>
-    <td>DA CHART from 1-1-1982.xls</td>
-    <td><a href="DA CHART from 1-1-1982.xls" download>Click Here</a>	            </td>
-    <td>13-03-2024</td>
+    <td>DA CHART from 1-1-1982 NEW PAY.xls</td>
+    <td><a href="DA CHART from 1-1-1982 NEW PAY.xls" download>Click Here</a>	            </td>
+    <td>16-12-2024</td>
   </tr>
   <tr>
     <td>Medical Proforma</td>
@@ -52,7 +52,7 @@ Income tax calculation for the FY 2023-24 AY 2024-25 <br> and Form 16 for the Fi
 
 ### What's new?
 <li> Date: 22-05-2022 uploaded New Pension calculation for "STATE SCALE" & "UGC SCALE" </li>
-<li> Date: 07-01-2024 uploaded New IT for the AY 2024-25 FY 2023-24 </li>
+<li> Date: 16-12-2024 uploaded New IT for the AY 2025-26 FY 2024-25 </li>
 </li> Date:30-12-2023 updated "Pension Papers Format"
 </li> [Please enter your information in "DATA SHEET" only]
 
@@ -94,4 +94,4 @@ Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : 
    <a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ed3ba4d4ed23a533ba527ef5863f14009c2f8159'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/688494/t/0"></script>
   
-  v2.23.5 13-03-2024
+  v2.23.5 16-12-2024
