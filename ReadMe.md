@@ -14,12 +14,12 @@ Income tax calculation for the FY 2024-25 AY 2025-26 <br> and Form 16 for the Fi
      <tr>
     <td>IT FY 2024-25 AY 2025-26 STATE SCALE.xls</td>
     <td><a href="IT FY 2024-25 AY 2025-26 STATE SCALE.xls" download>Click Here</a></td>
-    <td>16-12-2024</td>
+    <td>30-12-2024</td>
   </tr>
        <tr>
-    <td>IT FY 2024-25 AY 2025-26.xls</td>
-    <td><a href="IT FY 2024-25 AY 2025-26.xls" download>Click Here</a></td>
-    <td>16-12-2024</td>
+    <td>IT AY 2025-26 AY 2025-26 UGC SCALE.xls</td>
+    <td><a href="IT AY 2025-26 AY 2025-26 UGC SCALE.xls" download>Click Here</a></td>
+    <td>30-12-2024</td>
   </tr>
    <tr>
     <td>Pension Paper Format.xls</td>
@@ -99,4 +99,4 @@ Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : 
    <a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ed3ba4d4ed23a533ba527ef5863f14009c2f8159'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/688494/t/0"></script>
   
-  v2.23.5 16-12-2024
+  v2.23.5 30-12-2024
