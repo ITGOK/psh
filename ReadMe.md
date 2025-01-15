@@ -14,12 +14,12 @@ Income tax calculation for the FY 2024-25 AY 2025-26 <br> and Form 16 for the Fi
      <tr>
     <td>IT FY 2024-25 AY 2025-26 STATE SCALE.xls</td>
     <td><a href="IT FY 2024-25 AY 2025-26 STATE SCALE.xls" download>Click Here</a></td>
-    <td>30-12-2024</td>
+    <td>15-01-2025</td>
   </tr>
        <tr>
     <td>IT AY 2025-26 AY 2025-26 UGC SCALE.xls</td>
     <td><a href="IT AY 2025-26 AY 2025-26 UGC SCALE.xls" download>Click Here</a></td>
-    <td>30-12-2024</td>
+    <td>15-01-2025</td>
   </tr>
    <tr>
     <td>Pension Paper Format.xls</td>
