@@ -14,7 +14,7 @@ Income tax calculation for the FY 2024-25 AY 2025-26 <br> and Form 16 for the Fi
      <tr>
     <td>IT FY 2024-25 AY 2025-26 STATE SCALE.xls</td>
     <td><a href="IT FY 2024-25 AY 2025-26 STATE SCALE.xls" download>Click Here</a></td>
-    <td>15-01-2025</td>
+    <td>28-02-2025</td>
   </tr>
        <tr>
     <td>IT AY 2025-26 AY 2025-26 UGC SCALE.xls</td>
@@ -99,4 +99,4 @@ Created by **_P.Purushotham_**, Department of Collegiate Education<br> E-mail : 
    <a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ed3ba4d4ed23a533ba527ef5863f14009c2f8159'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/688494/t/0"></script>
   
-  v2.23.5 15-01-2025
+  v2.23.5 28-02-2025
